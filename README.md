@@ -2,7 +2,7 @@
 
 A collection of various small data science projects:
 
-- *crawling_yelp*: catching reviews of restaurants in Vienna's inner districts via a Python crawler
+- *crawling_yelp*: catching Yelp reviews of restaurants in Vienna's inner districts via a Python crawler
 - *dash-basics_macrodata*: visualizing macroeconomic data of Latin America with a basic dash webapp
 - *point-patterns-python*: examining the geo distribution of Wifi Hotspots in Linz, Austria (German)
 - *scikit-learn_trees-and-forests-exploration*: exploring scikit-learn's decision trees and random forests using a telemarketing dataset
