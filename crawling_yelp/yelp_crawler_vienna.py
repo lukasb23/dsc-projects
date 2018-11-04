@@ -1,6 +1,7 @@
 """
 YELP Crawler
-- Crawls deatils of yelp reviews of all restaurants in Vienna's inner districts 
+- Crawls deatils of yelp reviews of restaurants in multiple inner districts of Vienna
+- 'end_url' can be adjusted for different 'neighborhoods' 
 - Utilizes BeautifulSoup & concept of Python's generators
 """
 
