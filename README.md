@@ -2,6 +2,7 @@
 
 A collection of various small data science projects:
 
+- *clustering-challenge-otto*: unsupervised learning on the challenging Otto Online Dataset (61k rows, 93 features)
 - *crawling-yelp*: catching Yelp reviews of restaurants in Vienna's inner districts via a Python crawler
 - *dash-basics-macrodata*: visualizing macroeconomic data of Latin America with a very basic dash webapp
 - *point-patterns-python*: examining the geo distribution of Wifi Hotspots in Linz, Austria (German)
