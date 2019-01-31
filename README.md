@@ -7,5 +7,5 @@ A collection of various small data science projects:
 - *dash-basics-macrodata*: visualizing macroeconomic data of Latin America with a very basic dash webapp
 - *dimred-exploration*: exploring dimensionality reduction methods in scikit-learn based on a Sebastian Raschka's tutorial and [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)
 - *point-patterns-python*: examining the geo distribution of Wifi Hotspots in Linz, Austria (German)
-- *scikit-learn-trees-forests-exploration*: exploring scikit-learn's decision trees and random forests using a telemarketing dataset
+- *scikit-learn-trees-forests-exploration*: exploring scikit-learn's decision trees and random forests using a self-created as well as a telemarketing dataset
 - *spark-hdinsight-exploration*: using a spark cluster on HDInsight to analyze the click dataset of Kengoo (15m rows), exploring Spark's MLLib incl. pipelines and logistic regression 
